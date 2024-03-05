@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Education and Professionally
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+  Currently, I am a Junior at Cornell University in Ithaca, New York. I'm
+  studying Computer Science and Mathematics, and am currently planning on attending
+  grad school for a Masters of Engineering in Operations Research and Information
+  Engineering, with a focus on Financial Engineering. 
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Personal
