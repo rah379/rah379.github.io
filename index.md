@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Projects
+full-width: true
 ---
 
 ## Cornell Coursework
 
-### Junior Year
+* ### Junior Year
 
-### Sophomore Year
+* ### Sophomore Year
 
-### Freshman Year
+* ### Freshman Year
 
 
 ## Personal Projects
