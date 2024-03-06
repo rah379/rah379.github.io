@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Home Page
+title: Projects
 ---
-
-# Projects
 
 ## Cornell Coursework
 
+### Junior Year
+
+### Sophomore Year
+
+### Freshman Year
+
 
 ## Personal Projects
+
