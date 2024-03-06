@@ -5,6 +5,7 @@ title: Home Page
 
 # Projects
 
- ## Cornell Coursework
+## Cornell Coursework
+ Hi Cate Judy! 
 
- ## Personal Projects
+## Personal Projects
