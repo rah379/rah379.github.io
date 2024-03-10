@@ -1,6 +1,8 @@
 ---
 layout: page
-title: contact
+title: Contact
 ---
 
-## Feel Free to Reach Out!
+* Email: rah379@cornell.edu
+* LinkedIn: [Found Here](www.linkedin.com/in/rowan-hennessy-27a005226)
+* GitHub: [Found Here](https://github.com/rah379)

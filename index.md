@@ -4,7 +4,7 @@ title:
 full-width: true
 ---
 
-![](assets/img/IMG_7163.png)
+<img style="float: left;" src="assets/img/IMG_7163.png">
 
 Currently a Junior studying Computer Science and Mathematics at Cornell University. 
 
