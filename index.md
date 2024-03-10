@@ -8,7 +8,7 @@ full-width: true
 
 > Currently a Junior studying Computer Science and Mathematics at Cornell University. 
   My interests are in the intersection of applied mathematics and computer science,
-  particularly in medical software technologies and finance. 
+  particularly in medical software technologies and financial engineering. 
 
 
 ## Projects
