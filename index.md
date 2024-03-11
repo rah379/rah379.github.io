@@ -5,9 +5,16 @@ full-width: true
 ---
 
 <img style="float: left;" src="assets/img/IMG_7163.png">
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 Currently a Junior studying Computer Science and Mathematics at Cornell University. My interests are in the intersection of applied mathematics and computer science, particularly in medical software technologies and financial engineering. 
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ## Relevant Coursework
 * Computer Science
   * Object-Oriented Programming and Data Structures (Previously TA'd)
