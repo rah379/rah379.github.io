@@ -3,10 +3,6 @@ layout: page
 title: About me
 ---
 
-
-<img style="float: left;" src="/assets/img/canoe.png">
-<img style="float: right;" src="/assets/img/europe.png">
-
 ## Education and Professionally
 
   Currently, I am a Junior at Cornell University in Ithaca, New York. I'm
