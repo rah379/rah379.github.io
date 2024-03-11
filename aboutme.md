@@ -4,8 +4,8 @@ title: About me
 ---
 
 
-<img style="float: left;" src="assets/img/canoe.png">
-<img style="float: right;" src="assets/img/europe.png">
+<img style="float: left;" src="/assets/img/canoe.png">
+<img style="float: right;" src="/assets/img/europe.png">
 
 ## Education and Professionally
 
